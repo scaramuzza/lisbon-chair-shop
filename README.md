@@ -16,4 +16,4 @@ CSS => box-sizing: border-box, letter-spacing, display: grid, grid-template-colu
 
 ## preview
 
-![preview](https://github.com/scaramuzza/nlwHeat-2021-Rocketseat/blob/main/simula-cracha.png)
+![preview](https://github.com/scaramuzza/lisbon-chair-shop/blob/main/lisbon-chair-shop.png)
