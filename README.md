@@ -1,4 +1,4 @@
-# lisbon-chair-shop ff
+# lisbon-chair-shop
 
 Website de empresa que fabrica e comercializa cadeiras para residências e escritórios. O projeto envolve a aplicação das técnicas *grid* e *flex* do CSS, além de um HTML *semântico*;
 
