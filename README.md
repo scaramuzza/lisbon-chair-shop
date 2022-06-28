@@ -17,4 +17,3 @@ CSS => box-sizing: border-box, letter-spacing, display: grid, grid-template-colu
 ## preview
 
 ![preview](https://github.com/scaramuzza/lisbon-chair-shop/blob/main/lisbon-chair-shop.png)
-hhh
